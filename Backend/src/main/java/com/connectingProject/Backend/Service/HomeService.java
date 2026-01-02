@@ -6,6 +6,6 @@ import org.springframework.stereotype.Service;
 public class HomeService {
 
     public String getMsg() {
-        return new String("Message from BACKEND");
+        return new String("This is a custom Message from BACKEND");
     }
 }
